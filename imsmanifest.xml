@@ -6,7 +6,7 @@
     <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
       <general>
         <title>
-          <langstring xml:lang="x-none">10 second calculations7</langstring>
+          <langstring xml:lang="x-none">10 second calculations8</langstring>
         </title>
       </general>
       <lifecycle>
@@ -50,11 +50,11 @@
       </rights>
     </lom>
   </metadata>
-  <organizations default="10_second_calculations7_ORG">
-    <organization identifier="10_second_calculations7_ORG">
-      <title>10 second calculations7</title>
+  <organizations default="10_second_calculations8_ORG">
+    <organization identifier="10_second_calculations8_ORG">
+      <title>10 second calculations8</title>
       <item identifier="_10_second_calculations_SCO" isvisible="true" identifierref="__6ebtx3M6rkF_course_id_RES">
-        <title>10 second calculations7</title>
+        <title>10 second calculations8</title>
       </item>
     </organization>
   </organizations>
