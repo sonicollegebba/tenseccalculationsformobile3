@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<manifest identifier="_6nh6sxgzrkd_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+<manifest identifier="_6ebtx3M6rkF_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
   <metadata>
     <schema>ADL SCORM</schema>
     <schemaversion>1.2</schemaversion>
     <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
       <general>
         <title>
-          <langstring xml:lang="x-none">10 second calculations for mobile4</langstring>
+          <langstring xml:lang="x-none">10 second calculations5</langstring>
         </title>
       </general>
       <lifecycle>
@@ -27,7 +27,7 @@
       </metametadata>
       <educational>
         <typicallearningtime>
-          <datetime>PT0H1M44S</datetime>
+          <datetime>PT0H0M0S</datetime>
         </typicallearningtime>
       </educational>
       <rights>
@@ -50,16 +50,16 @@
       </rights>
     </lom>
   </metadata>
-  <organizations default="10_second_calculations_for_mobile4_ORG">
-    <organization identifier="10_second_calculations_for_mobile4_ORG">
-      <title>10 second calculations for mobile4</title>
-      <item identifier="_10_second_calculations_for_mobile4_SCO" isvisible="true" identifierref="__6nh6sxgzrkd_course_id_RES">
-        <title>10 second calculations for mobile4</title>
+  <organizations default="10_second_calculations5_ORG">
+    <organization identifier="10_second_calculations5_ORG">
+      <title>10 second calculations5</title>
+      <item identifier="_10_second_calculations_SCO" isvisible="true" identifierref="__6ebtx3M6rkF_course_id_RES">
+        <title>10 second calculations5</title>
       </item>
     </organization>
   </organizations>
   <resources>
-    <resource identifier="__6nh6sxgzrkd_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+    <resource identifier="__6ebtx3M6rkF_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
       <file href="story_content/thumbnail.jpg" />
       <file href="mobile/63MCmIDfqVD_80_DX808_DY808_CX277_CY635.png" />
       <file href="mobile/5q1rq0sAbga_80_DX328_DY328_CX242_CY48.png" />
